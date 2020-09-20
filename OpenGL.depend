@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1598276540 source:c:\users\hebron hossain hamim\desktop\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 c:\users\hebron hossain hamim\desktop\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1600610898 source:c:\users\hebron hossain hamim\desktop\011171095\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 c:\users\hebron hossain hamim\desktop\011171095\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1600610898 source:c:\users\hebron hossain hamim\desktop\hypo\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 c:\users\hebron hossain hamim\desktop\hypo\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
